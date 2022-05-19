@@ -1,0 +1,70 @@
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+    text-align: center;
+    font-size: 60px;
+}
+body{
+    background-color: rgb(195, 252, 37);
+}
+.rounded{
+    margin: 30px;
+}
+h2{
+    font-style: italic;
+}
+.divcuentas{
+    background-color: rgb(221, 239, 233);
+}
+.label1{
+text-transform: uppercase;
+}
+.btn1{
+    border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+padding: 10px; /*espacio alrededor texto*/
+background-color: #1dbdf3; /*color botón*/
+color: #ffffff; /*color texto*/
+text-decoration: none; /*decoración texto*/
+text-transform: uppercase; /*capitalización texto*/
+font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+border-radius: 50px; /*bordes redondos*/
+}
+.label2{
+    text-transform: uppercase;
+    }
+    .btn2{
+        border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+    padding: 10px; /*espacio alrededor texto*/
+    background-color: #1dbdf3; /*color botón*/
+    color: #ffffff; /*color texto*/
+    text-decoration: none; /*decoración texto*/
+    text-transform: uppercase; /*capitalización texto*/
+    font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+    border-radius: 50px; /*bordes redondos*/
+    }
+.label3{
+        text-transform: uppercase;
+        }
+        .btn3{
+            border: 1px solid #2e518b; /*anchura, estilo y color borde*/
+        padding: 10px; /*espacio alrededor texto*/
+        background-color: #1dbdf3; /*color botón*/
+        color: #ffffff; /*color texto*/
+        text-decoration: none; /*decoración texto*/
+        text-transform: uppercase; /*capitalización texto*/
+        font-family: 'Helvetica', sans-serif; /*tipografía texto*/
+        border-radius: 50px; /*bordes redondos*/
+        }
+.form1{
+   margin: 10px;
+   align-items: center;
+}
+.imagenarea{
+    background-color: rgb(146, 157, 167);
+    margin: 10px;
+}
+.imagen2{
+    display:block;
+    margin:auto;
+}
