@@ -7,16 +7,16 @@
    // Agregar listener
    boton1.addEventListener("click", function(evento){
        // Aquí todo el código que se ejecuta cuando se da click al botón
-       location="cuenta1.html";
+       location="index.html";
    });
 
    boton2.addEventListener("click", function(evento){
     // Aquí todo el código que se ejecuta cuando se da click al botón
-    location="cuenta2.html";
+    location="index.html";
 });
 
 boton3.addEventListener("click", function(evento){
     // Aquí todo el código que se ejecuta cuando se da click al botón
-    location="cuenta3.html";
+    location="index.html";
 });
 
